@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slide1",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/yca-crush-day.appspot.com/o/one.jpg?alt=media&token=a554c15a-7c8e-4edf-a256-72eae6bf57bd",
+    "prevId": "slide6",
+    "nextId": "slide2",
+    "title": "Awesome and fun night with the best person ever! 🌟",
+    "description": "The night that we had was amazing and I can't wait to have more nights like this with you! It was a night full of learning, fun, and laughter. I can't wait to see what we can cook more as a duo!"
+  },
+  {
+    "id": "slide2",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/yca-crush-day.appspot.com/o/two.jpeg?alt=media&token=44cfb179-18a2-4ee5-aba8-cad4820c0582",
+    "prevId": "slide1",
+    "nextId": "slide3",
+    "title": "The best team ever! 🏆",
+    "description": "The first ever picture where team nanAi is in one frame. It was a great day and I can't wait to have more days like this with you! and more days with the team!"
+  },
+  {
+    "id": "slide3",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/yca-crush-day.appspot.com/o/three.jpg?alt=media&token=75fa0fb4-9835-448c-b346-499bd09f6f7e",
+    "prevId": "slide2",
+    "nextId": "slide4",
+    "title": "First window shopping experience! 🛍️",
+    "description": "We get to experience our first window shopping experience together! It was the first time I had fun going around inside Ikea and please don't let it be the last time!"
+  },
+  {
+    "id": "slide4",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/yca-crush-day.appspot.com/o/four.jpg?alt=media&token=8cbcc7c3-eb7d-42f3-af56-4a24e9ef464f",
+    "prevId": "slide3",
+    "nextId": "slide5",
+    "title": "The Kind Cookie!  🍪",
+    "description": "We get to buy the cookies that you were craving for so long! More cookies to come! Hopfully soon we get to bake our own cookies together!"
+  },
+  {
+    "id": "slide5",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/yca-crush-day.appspot.com/o/five.jpg?alt=media&token=4b1df384-711d-404c-992b-513fa2213032",
+    "prevId": "slide4",
+    "nextId": "slide6",
+    "title": "Swags Packing Night 🎁",
+    "description": "That night was so fun and you were so cutesy helping in packing the swags! More community days to come and more swags to pack!"
+  },
+  {
+    "id": "slide6",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/yca-crush-day.appspot.com/o/six.jpg?alt=media&token=03cbba29-594c-41f3-a3a9-ad5d232d15f1",
+    "prevId": "slide5",
+    "nextId": "slide1",
+    "title": "OWEMJI Our First Back-to-Back Talk! 🔉 ",
+    "description": "To have a back-to-back talk with you was amazing! I can't wait to have more talks with you and to learn more about you! I can't wait to see what the future holds for us!"
+  }
+]
