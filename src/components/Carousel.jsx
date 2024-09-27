@@ -1,13 +1,13 @@
-import React from 'react';
-import Highlights from '../data/Highlights.json';
+import React from "react";
+import Highlights from "../data/Highlights.json";
 
 export default function Carousel() {
   return (
     <div
       id="memories"
-      className="w-full min-h-screen px-6 bg-primary flex flex-col items-center justify-center"
+      className="w-full   min-h-screen px-6 bg-primary flex flex-col items-center justify-center"
     >
-      <div className="carousel w-full">
+      <div className="carousel w-full max-w-2xl">
         {Highlights.map((slide) => (
           <div
             key={slide.id}
